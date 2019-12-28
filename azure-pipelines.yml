@@ -39,7 +39,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "sort.py"
+- script: python "sorting.py"
 
 
 
